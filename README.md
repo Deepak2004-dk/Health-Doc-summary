@@ -1,4 +1,5 @@
-🏥 Health Document Summarizer
+                                      🏥 Health Document Summarizer
+
 This Streamlit-based app summarizes health-related documents (PDFs) for both medical professionals and patients, using Google's Gemini Pro LLM.
 
 🚀 Features
