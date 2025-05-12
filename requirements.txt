@@ -5,7 +5,4 @@ langchain_community
 langchain_groq
 langchain_google_genai
 streamlit
-faiss-cpu
-langchain_huggingface
 PyPDF2
-pdfplumber
